@@ -1,0 +1,16 @@
+.country {
+    background-color: red;
+}
+.Smiles {
+    font-weight: bold;
+    font-style: italic;
+} 
+h1 {
+    color: white;
+}
+#Kurt {
+    transform: rotate(90deg);
+}
+.navi {
+    width: 500px;
+}
